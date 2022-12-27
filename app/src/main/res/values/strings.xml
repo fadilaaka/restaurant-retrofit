@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Restoran</string>
+    <string-array name="list_location">
+        <item>Kopo</item>
+        <item>Cihampelas</item>
+        <item>Cikutra</item>
+        <item>Dago</item>
+    </string-array>
+</resources>
